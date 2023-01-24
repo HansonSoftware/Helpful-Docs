@@ -2,7 +2,7 @@
 Contains commonly used Git and Linux commands, for reference.
 
 ## Git Commands
-[here](/Helpful-Docs/git.md)
+[Here](https://github.com/HansonSoftware/Helpful-Docs/git.md)
 
 ## Linux Commands
-[here](/Helpful-Docs/linux.md)
+[Here](https://github.com/HansonSoftware/Helpful-Docs/linux.md)
