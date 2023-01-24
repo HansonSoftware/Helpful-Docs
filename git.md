@@ -1,4 +1,4 @@
-# COMMON GIT COMMANDS
+# Common Git commands
 
 ## Initialize a new Git repository
 git init
